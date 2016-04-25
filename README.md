@@ -9,7 +9,7 @@ You'll need the Ionic CLI with support for v2 apps:
 `$ npm install -g ionic@beta`
 
 
-_**_Ionic Tasks_**_
+**_Ionic Tasks_**
 
 _serve_  ..........  Start a local development server for app dev/testing
 
